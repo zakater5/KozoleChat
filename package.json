@@ -1,0 +1,31 @@
+{
+  "name": "untitled2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.0.2",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2",
+    "query-string": "^7.1.1",
+    "serve-favicon": "^2.5.0",
+    "socket.io": "^4.5.4",
+    "socketio-file-upload": "^0.7.3",
+    "sqlite3": "^5.0.7",
+    "websocket": "^1.0.34",
+    "ws": "^8.4.2",
+    "xhr2": "^0.2.1"
+  }
+}

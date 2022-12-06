@@ -1,0 +1,25 @@
+2022-11-29 12:13:31 / Registered new user { Username: admin Email: drtfgyhujn }
+2022-11-29 21:58:40 / Registered new user { Username: admin Email: urban.serbec@student.sc-nm.si }
+2022-11-29 22:00:59 / User logged in as { Username: admin }
+2022-11-29 22:04:42 / User logged in as { Username: admin }
+2022-11-29 22:41:48 / User logged in as { Username: admin }
+2022-11-29 23:04:40 / User logged in as { Username: admin }
+2022-11-29 23:05:25 / User logged in as { Username: admin }
+2022-11-29 23:20:58 / User logged in as { Username: admin }
+2022-11-30 11:04:13 / User logged in as { Username: admin }
+2022-11-30 11:37:02 / User logged in as { Username: admin }
+2022-11-30 11:44:37 / User logged in as { Username: admin }
+2022-11-30 11:50:03 / User logged in as { Username: admin }
+2022-11-30 11:56:22 / Registered new user { Username: testAccount1 Email: dfghj }
+2022-12-03 15:05:18 / User logged in as { Username: admin }
+2022-12-05 14:44:52 / User logged in as { Username: admin }
+2022-12-05 14:45:55 / User logged in as { Username: admin }
+2022-12-05 15:13:52 / User logged in as { Username: admin }
+2022-12-05 15:24:24 / User logged in as { Username: admin }
+2022-12-05 15:33:07 / User logged in as { Username: admin }
+2022-12-05 16:03:42 / User logged in as { Username: admin }
+2022-12-05 16:29:30 / User logged in as { Username: admin }
+2022-12-05 16:30:37 / Registered new user { Username: neki Email: not@gmail.com }
+2022-12-05 16:31:44 / User logged in as { Username: admin }
+2022-12-05 16:35:22 / Registered new user { Username: admin2 Email: cfvghbjnm }
+2022-12-05 16:35:42 / User logged in as { Username: admin }
